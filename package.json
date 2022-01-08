@@ -1,0 +1,51 @@
+{
+    "name": "mermaid-theme",
+    "displayName": "Mermaid Theme",
+    "description": "For those who loves mermaids tail colors",
+    "version": "0.0.1",
+    "publisher": "StephKeys",
+    "author": {
+        "name": "Steph Keys",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stephkeys/mermaid-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/stephkeys/mermaid-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#df65ac",
+        "theme": "dark"
+    },
+    "icon": "mermaid.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "stephkeys",
+        "Steph Keys",
+        "pastel",
+        "pastel theme",
+        "mermaid",
+        "dark pink",
+        "color-theme",
+        "girl",
+        "girly",
+        "pink",
+        "purple",
+        "blue"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mermaid Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mermaid Theme-color-theme.json"
+            }
+        ]
+    }
+}
+}
