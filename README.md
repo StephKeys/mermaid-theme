@@ -16,7 +16,7 @@
 
 ## Installation
 
-1. Search for `Mermaid Theme` in Extensions option in VS Code sidebar
+1. Search for `stephkeys` in Extensions option in VS Code sidebar
 2. Click on Install to add the theme to your VS Code setup
 3. Open the Command Palette <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> or (<kbd>⌘</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and select Preferences: Color Theme.
 4. Select Mermaid Theme to activate it.
