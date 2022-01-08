@@ -6,8 +6,9 @@
     "publisher": "StephKeys",
     "author": {
         "name": "Steph Keys",
+    },
     "engines": {
-        "vscode": "^1.63.2"
+        "vscode": "^1.10.0"
     },
     "repository": {
         "type": "git",
